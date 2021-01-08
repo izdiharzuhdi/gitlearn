@@ -9,7 +9,7 @@ import xlsxwriter
 import talib
 import numpy as np
 from os.path import dirname
-from trendline import get_support_resistance, get_extrema
+# from trendline import get_support_resistance, get_extrema
 import matplotlib.pyplot as plt
 
 class stock():
